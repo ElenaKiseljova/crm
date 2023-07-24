@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "bill": "Bill",
+    "history": "History",
+    "planning": "Planning",
+    "new-record": "New record",
+    "categories": "Categories"
+  },
+  "profile": "Profile",
+  "login": "Login",
+  "logout": "Logout",
+  "home-bookkeeping": "Home bookkeeping",
+  "placeholders": {
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "choose-default-currency": "Choose a default currency"
+  },
+  "agree": "I agree with the rules",
+  "have-account": "Already have an account?",
+  "have-not-account": "Don't have an account?",
+  "buttons": {
+    "login": "Login",
+    "register": "Register",
+    "create": "Create",
+    "update": "Update"
+  },
+  "bill-in-currencies": "Bill in currencies",
+  "exchange-rates": "Exchange Rates",
+  "currency": "Currency",
+  "rate": "Rate",
+  "date": "Date",
+  "history-records": "History records",
+  "amount": "Amount",
+  "category": "Category ",
+  "type": "Type",
+  "view-record": "View record",
+  "open": "Open",
+  "outcome": "Outcome",
+  "income": "Income",
+  "left": "Left",
+  "exceeding": "Exceeding",
+  "create-new-record": "Create new record",
+  "select-category": "Select category",
+  "description": "Description",
+  "edit": "Edit",
+  "create": "Create",
+  "title": "Title",
+  "limit": "Limit",
+  "no-categories": "Categories not yet.",
+  "add-category": "Add category"
+}

@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "bill": "Счёт",
+    "history": "История",
+    "planning": "Планирование",
+    "new-record": "Новая запись",
+    "categories": "Категории"
+  },
+  "profile": "Профиль",
+  "login": "Войти",
+  "logout": "Выйти",
+  "home-bookkeeping": "Домашняя бухгалтерия",
+  "placeholders": {
+    "name": "Имя",
+    "email": "Email",
+    "password": "Пароль",
+    "choose-default-currency": "Выберите валюту по умолчанию"
+  },
+  "agree": "Я соглашаюсь с правилами",
+  "have-account": "Уже есть аккаунт?",
+  "have-not-account": "Ещё нет аккаунта?",
+  "buttons": {
+    "login": "Войти",
+    "register": "Зарегистрироваться",
+    "create": "Создать",
+    "update": "Обновить"
+  },
+  "bill-in-currencies": "Счёт в вальте",
+  "exchange-rates": "Курс валют",
+  "currency": "Валюта",
+  "rate": "Курс",
+  "date": "Дата",
+  "history-records": "История записей",
+  "amount": "Сумма",
+  "category": "Категория",
+  "type": "Тип",
+  "view-record": "Посмотреть запись",
+  "open": "Открыть",
+  "outcome": "Расход",
+  "income": "Доход",
+  "create-new-record": "Создать новую запись",
+  "left": "Осталось",
+  "exceeding": "Превышение на",
+  "select-category": "Выберите категорию",
+  "description": "Описание",
+  "edit": "Редактировать",
+  "create": "Создать",
+  "title": "Название",
+  "limit": "Лимит",
+  "no-categories": "Категорий пока нет.",
+  "add-category": "Добавить категорию"
+}
