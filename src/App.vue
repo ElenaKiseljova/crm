@@ -4,6 +4,7 @@
       <RouterView />
     </component>
   </div>
+  <!-- Test rebase -->
 </template>
 
 <script>
